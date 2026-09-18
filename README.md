@@ -41,4 +41,4 @@ When the program starts, it will ask for the username and password. After a succ
 - Student names are used as dictionary keys.
 - Each student's grades are stored as a list of integers.
 - The average grade is calculated using Python's `statistics.mean()` function.
-# Student-Grading
+ 
